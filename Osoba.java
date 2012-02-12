@@ -2,7 +2,7 @@ class Osoba {
 
   private String name;
   private String sureName;
-  private int counter;
+  private int notACounter;
 
 
   public Osoba (String name, String sureName){
